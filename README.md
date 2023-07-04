@@ -1,2 +1,3 @@
 # Shopping-Cart
-# Live link: https://rumon-sarker.github.io/Shopping-Cart/
+# etlify live link: https://kaleidoscopic-gumption-d7a18b.netlify.app/
+
